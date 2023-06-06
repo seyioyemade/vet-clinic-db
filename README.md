@@ -72,9 +72,9 @@ In order to run this project you need:
 
 
 ### Usage
--step 1: create Database vet clinic
--step 2: create table animals
-insert data...
+- step 1: create Database vet clinic
+- step 2: create table animals
+- insert data...
 
 ### Run test
 -Command: npm start
@@ -96,7 +96,7 @@ insert data...
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  Update animals table
+-  Database performance audit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
