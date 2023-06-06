@@ -8,3 +8,6 @@ escape_attempts int,
 neutered bit,
 weight decimal
 );
+
+ALTER TABLE animals
+ALTER COLUMN id ADD GENERATED ALWAYS AS IDENTITY;
