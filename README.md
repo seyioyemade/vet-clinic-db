@@ -96,7 +96,7 @@ insert data...
 
 ## 🔭 Future Features <a name="future-features"></a>
 
--  Update animals table
+-  Database performance audit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
