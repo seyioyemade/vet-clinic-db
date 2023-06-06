@@ -6,7 +6,7 @@ name varchar(40) NOT NULL,
 date_of_birth date NOT NULL,
 escape_attempts int,
 neutered bit,
-weight decimal
+weight_kg decimal
 );
 
 ALTER TABLE animals
