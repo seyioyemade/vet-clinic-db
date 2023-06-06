@@ -72,9 +72,9 @@ In order to run this project you need:
 
 
 ### Usage
--step 1: create Database vet clinic
--step 2: create table animals
-insert data...
+- step 1: create Database vet clinic
+- step 2: create table animals
+- insert data...
 
 ### Run test
 -Command: npm start
