@@ -11,3 +11,6 @@ weight decimal
 
 ALTER TABLE animals
 ALTER COLUMN id ADD GENERATED ALWAYS AS IDENTITY;
+
+ALTER TABLE animals
+ADD COLUMN species varchar(40);
