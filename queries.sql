@@ -31,7 +31,7 @@ ROLLBACK;
 
 BEGIN;
 UPDATE animals
-SET species = 'digimon';
+SET species = 'digimon'
 WHERE name LIKE '%mon';
 
 UPDATE animals 
