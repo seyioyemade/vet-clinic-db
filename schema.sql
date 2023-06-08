@@ -71,3 +71,8 @@ CREATE TABLE visits (
   FOREIGN KEY (vets_id) REFERENCES vets(id)
 );
 
+ALTER TABLE visits
+ADD CONSTRAINT pk_visits PRIMARY KEY (animals_id, vets_id);
+
+ALTER TABLE visits
+ADD COLUMN date_of_visitation date;
