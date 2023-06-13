@@ -13,7 +13,6 @@
     - [Usage](#usage)
     - [Run test](#run-test)
   - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
   - [🤝 Contributing ](#-contributing-)
   - [⭐️ Show your support ](#️-show-your-support-)
   - [🙏 Acknowledgments ](#-acknowledgments-)
@@ -90,13 +89,6 @@ In order to run this project you need:
 - GitHub: [@seyioyemade](https://github.com/seyioyemade)
 - Twitter: [@seyi_oyemade](https://twitter.com/@seyi_oyemade)
 - LinkedIn: [Seyi Oyemade](https://www.linkedin.com/in/seyi-oyemade-523ab1142/)
-
-- 
-<!-- FUTURE FEATURES -->
-
-## 🔭 Future Features <a name="future-features"></a>
-
--  Database performance audit.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
